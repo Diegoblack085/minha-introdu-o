@@ -55,7 +55,24 @@
 
       http://127.0.0.1:5500/inde.html
 
-         <P>   </P>
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Isso é um paragrafo</p>
+    <!--Isso é apenas um paragrafo-->
+    <p>Olá tudo bem</p>
+    <!--è apenas um titulo-->
+    <h1>Titulo principal</h1>
+    <!--<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi omnis accusamus voluptatum! Maiores harum nihil exercitationem doloribus quo explicabo alias omnis, sapiente velit cum pariatur, eveniet, qui eius ratione quaerat.</p>-->
+    <p><mark>Tenetur adipisci, tempore architecto velit officia assumenda harum optio nisi minima blanditiis in dolores modi, quia facilis maiores obcaecati vel temporibus explicabo iste. Quo ea repellat quaerat iure, excepturi id.</mark></p>
+    <p><abbr title="Diego">Alias</abbr>, aliquid nostrum? Nostrum, deserunt. Nulla maxime asperiores possimus, illo unde praesentium magnam veritatis omnis. Assumenda facilis illo, ipsa ad dignissimos obcaecati maiores nostrum facere velit. Nulla incidunt velit unde.</p>
+</body>
+</html>
 
 
 
