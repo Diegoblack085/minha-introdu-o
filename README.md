@@ -71,6 +71,27 @@
     <!--<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi omnis accusamus voluptatum! Maiores harum nihil exercitationem doloribus quo explicabo alias omnis, sapiente velit cum pariatur, eveniet, qui eius ratione quaerat.</p>-->
     <p><mark>Tenetur adipisci, tempore architecto velit officia assumenda harum optio nisi minima blanditiis in dolores modi, quia facilis maiores obcaecati vel temporibus explicabo iste. Quo ea repellat quaerat iure, excepturi id.</mark></p>
     <p><abbr title="Diego">Alias</abbr>, aliquid nostrum? Nostrum, deserunt. Nulla maxime asperiores possimus, illo unde praesentium magnam veritatis omnis. Assumenda facilis illo, ipsa ad dignissimos obcaecati maiores nostrum facere velit. Nulla incidunt velit unde.</p>
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula 7</title>
+</head>
+<body>
+    <!--Vamos aprender links-->
+    <h1> Pagina pricipal</h1>
+    <p> Seja bem vindo a pagina pricinpal</p>
+    
+    <hr>
+    <a href="http://www.google.com">Visitar o Google</a><br>
+    <a href="https://www.youtube.com/watch?v=eb5tPfOeexI">youtube aula</a>
+
+    <hr>
+
+
+</body>
+</html>
 </body>
 </html>
 
