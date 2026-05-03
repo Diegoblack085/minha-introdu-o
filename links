@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula 7</title>
+</head>
+<body>
+    <!--Vamos aprender links-->
+    <h1> Pagina pricipal</h1>
+    <p> Seja bem vindo a pagina pricinpal</p>
+    
+    <hr>
+    <a href="http://www.google.com">Visitar o Google</a><br>
+    <a href="https://www.youtube.com/watch?v=eb5tPfOeexI">youtube aula</a>
+
+    <hr>
+
+
+</body>
+</html>
